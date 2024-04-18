@@ -1,0 +1,15 @@
+/Users/tuan/Projects/RpsQuest/bin/Debug/net6.0/RpsQuest
+/Users/tuan/Projects/RpsQuest/bin/Debug/net6.0/RpsQuest.deps.json
+/Users/tuan/Projects/RpsQuest/bin/Debug/net6.0/RpsQuest.runtimeconfig.json
+/Users/tuan/Projects/RpsQuest/bin/Debug/net6.0/RpsQuest.dll
+/Users/tuan/Projects/RpsQuest/bin/Debug/net6.0/RpsQuest.pdb
+/Users/tuan/Projects/RpsQuest/obj/Debug/net6.0/RpsQuest.csproj.AssemblyReference.cache
+/Users/tuan/Projects/RpsQuest/obj/Debug/net6.0/RpsQuest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tuan/Projects/RpsQuest/obj/Debug/net6.0/RpsQuest.AssemblyInfoInputs.cache
+/Users/tuan/Projects/RpsQuest/obj/Debug/net6.0/RpsQuest.AssemblyInfo.cs
+/Users/tuan/Projects/RpsQuest/obj/Debug/net6.0/RpsQuest.csproj.CoreCompileInputs.cache
+/Users/tuan/Projects/RpsQuest/obj/Debug/net6.0/RpsQuest.dll
+/Users/tuan/Projects/RpsQuest/obj/Debug/net6.0/refint/RpsQuest.dll
+/Users/tuan/Projects/RpsQuest/obj/Debug/net6.0/RpsQuest.pdb
+/Users/tuan/Projects/RpsQuest/obj/Debug/net6.0/RpsQuest.genruntimeconfig.cache
+/Users/tuan/Projects/RpsQuest/obj/Debug/net6.0/ref/RpsQuest.dll

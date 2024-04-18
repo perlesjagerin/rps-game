@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rOEk0JcOVKeTJdSZdkxo4tTzGNIhSICCHFSPzB/2HVT8+nleGqvh1ErBumE1iNLdE0l84eBtcixF2cPmQnbQvA==",
+  "success": true,
+  "projectFilePath": "/Users/tuan/Projects/RpsQuest/RpsQuest.csproj",
+  "expectedPackageFiles": [
+    "/Users/tuan/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.28/microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "/Users/tuan/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.28/microsoft.netcore.app.host.osx-x64.6.0.28.nupkg.sha512",
+    "/Users/tuan/.nuget/packages/microsoft.netcore.app.ref/6.0.28/microsoft.netcore.app.ref.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
